@@ -1,2 +1,7 @@
-Hi I am Dedicated Programmer. 
-How are are you all?
+Hello programmers.
+How are you all programmers
+I Love python scripting
+Hi i am new line newly adding.
+line1 : I play football
+line2 : I play cricket
+line3 : I play chess
