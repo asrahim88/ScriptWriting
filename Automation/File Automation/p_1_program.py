@@ -7,11 +7,11 @@ def customFile(func):
         elif func == "lines":
             return file.readlines()
         
-allCharacter = customFile("all")
-print("Total length = ",len(allCharacter),allCharacter)
-allCharacter = customFile("line")
-print("Total length = ",len(allCharacter), allCharacter)
-allCharacter = customFile("lines")
-print("Total length = ",len(allCharacter),allCharacter)
+# allCharacter = customFile("all")
+# print("Total length = ",len(allCharacter),allCharacter)
+# allCharacter = customFile("line")
+# print("Total length = ",len(allCharacter), allCharacter)
+# allCharacter = customFile("lines")
+# print("Total length = ",len(allCharacter),allCharacter)
 
     
